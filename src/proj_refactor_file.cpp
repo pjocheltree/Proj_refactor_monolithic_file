@@ -6,8 +6,6 @@
 // Description : learn how to refactor files into a sensible directory structure
 //============================================================================
 #include <iostream>
-#include <string>
-#include <vector>
 #include "../includes/constants.h"
 #include "../includes/fileio.h"
 #include "../includes/utils.h"
